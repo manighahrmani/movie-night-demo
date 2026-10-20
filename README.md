@@ -1,3 +1,5 @@
-# Games night
+# Movie night
 
-An evening of games for students.
+Join us on FTC floor 3. Bring snacks or popcorn.
+
+Film and date: [add your favourite film and a preferred date]
