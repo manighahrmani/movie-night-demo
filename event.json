@@ -1,11 +1,9 @@
 {
   "name": "Move night",
   "description": "A Kino night for students.",
-  "date": "2026-11-12",
+  "date": "[enter the date here for example 2026-11-12]",
   "start": "18:00",
   "end": "20:00",
   "venue": "FTC floor 3",
-  "capacity": 30,
-  "entry": "Free",
-  "equipment": "Some soft drinks and popcorn, maybe a pizza"
+  "movie": "[enter the name of your preferred movie here]",
 }
