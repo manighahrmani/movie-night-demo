@@ -1,0 +1,14 @@
+{
+  "name": "Games night",
+  "description": "An evening of games for students.",
+  "date": "2026-11-12",
+  "start": "18:00",
+  "end": "20:00",
+  "venue": "Student common room",
+  "capacity": 30,
+  "entry": "Free",
+  "equipment": "Bring a board game if you can",
+  "contact": "Ask the organisers",
+  "access": "Step-free entrance",
+  "booking": "Book with an organiser."
+}
