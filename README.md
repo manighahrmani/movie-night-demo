@@ -1,2 +1,3 @@
-# games-night-demo
-A repo for an in-lecture demo.
+# Games night
+
+An evening of games for students.
